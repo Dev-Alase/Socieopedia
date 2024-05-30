@@ -50,6 +50,7 @@ const Navbar = () => {
                         cursor: "pointer"
                     }
                 }}>
+                Socieopedia
             </Typography>
 
             {isNonMobileScreens && (
